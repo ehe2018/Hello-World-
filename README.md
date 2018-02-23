@@ -1,2 +1,2 @@
-# Hello-World-
-In the door
+# Hello-World
+Start the Git world
